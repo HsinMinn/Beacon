@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/com.commonsware.cwac/sacklist/1.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5266b08a2f807b04da8a85474038796585dadeeb">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/classes-656b99f84a19a60d892cddb999448a01f1a78746.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-0409514f99776be18a93ee861cd5228df140905b.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/beacon/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d9b7687a7a4cdb7f5a67b412141886928a96519">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/classes-c508e391916e8af848b2491fd1655af0d120a1d5.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/com.commonsware.cwac/merge/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40e8bc647493f57be01c9f6fe621fe20f2f759bd">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/classes-5d9332294a87680bd0e572909b40c66a7759b27a.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/classes-1c201e5e2f404cfaf9de5b4fd2fab5bbc1495302.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/classes-57a4b812814a84fc91a1eb4f49670eedb158740a.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-b2232370581d9d2c34e248416a6a3716223f520b.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/libs/EasyCursor-0.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44a42491bea1d9813b5b97e65022114b04881384">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/EasyCursor-0.1.1-1b7d0e8f66c9afb5f6707a7d5491632509c35511.jar" />
+    </item>
+    <item
+        jar="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/mindy/Desktop/beacon/sample_app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ff66704ff26fd9035be6d3c8f028e157158c8f65.jar" />
+    </item>
+
+</items>
